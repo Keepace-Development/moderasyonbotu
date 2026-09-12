@@ -29,7 +29,6 @@ Bot içerisindeki tüm komutlar ve kullanım amaçları aşağıda listelenmişt
 
 ### 🔨 Moderasyon Komutları
 * `!ban @üye [sebep]` — Belirtilen üyeyi sunucudan yasaklar.
-* `!ipban @üye [sebep]` — Üyeyi yasaklar ve son 7 günlük mesajlarını temizler.
 * `!mute @üye [süre] [sebep]` — Üyeyi belirtilen süre boyunca susturur (Örn: `!mute @kullanici 10dk küfür`). Geçerli süreler: `sn`, `dk`, `sa`, `gün`.
 * `!kilit` — Bulunduğunuz kanalı mesajlara kapatır (Sadece yetkililer yazabilir).
 * `!kilitac` — Kanalın kilidini tekrar herkese açar.
